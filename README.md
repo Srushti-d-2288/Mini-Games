@@ -7,4 +7,4 @@ This project is part of my web development practice.
 ## Games Included
 - 🐍 Snake Game  
 - ❌⭕ Tic-Tac-Toe (XO Game)  
-- ✊✋✌️ Stone Paper Scissors 
+ 
